@@ -1,1 +1,1 @@
---platform=linux/aarch64 haroldli/xiaoya-tvbox:latest
+xiaoyakeeper:latest --platform=arm
